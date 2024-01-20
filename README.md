@@ -1,4 +1,4 @@
-node-csgo
+node-2
 ========
 
 Need help? Don't open an issue - ask in the Gitter room.
